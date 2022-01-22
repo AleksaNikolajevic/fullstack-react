@@ -6,7 +6,7 @@ window.Seed = (function () {
   const products = [
     {
       id: 1,
-      title: 'Yellow Pail',
+      title: 'Žuto',
       description: 'On-demand sand castle construction expertise.',
       url: '#',
       votes: generateVoteCount(),
@@ -15,7 +15,7 @@ window.Seed = (function () {
     },
     {
       id: 2,
-      title: 'Supermajority: The Fantasy Congress League',
+      title: 'Belo',
       description: 'Earn points when your favorite politicians pass legislation.',
       url: '#',
       votes: generateVoteCount(),
@@ -24,7 +24,7 @@ window.Seed = (function () {
     },
     {
       id: 3,
-      title: 'Tinfoild: Tailored tinfoil hats',
+      title: 'Rose',
       description: 'We already have your measurements and shipping address.',
       url: '#',
       votes: generateVoteCount(),
